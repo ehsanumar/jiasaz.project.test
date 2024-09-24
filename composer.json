@@ -1,0 +1,17 @@
+{
+    "name": "mytech/jiyasz",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ehsan umar",
+            "email": "ehsanumar84@email.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
